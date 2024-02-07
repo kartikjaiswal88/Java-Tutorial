@@ -3,7 +3,7 @@ public class ArraysConcept {
         int arr[] = new int[5]; // Default value 0
 
         for (int i : arr) {
-            // System.out.println(i);
+            System.out.println(i);
         }
 
         int arr1[][] = new int[4][7];

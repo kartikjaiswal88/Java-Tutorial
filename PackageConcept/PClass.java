@@ -8,5 +8,5 @@ package PackageConcept;
 */
 
 public class PClass {
-
+      public int marks = 6;
 }

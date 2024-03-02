@@ -27,9 +27,6 @@ class Developer {
 }
 
 
-
-
-
 public class NeedOfInterface {
 
     public static void main(String[] args) {

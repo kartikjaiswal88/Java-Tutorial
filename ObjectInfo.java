@@ -14,5 +14,6 @@ public class ObjectInfo {
 
         Example obj; // Reference Variable
         obj = new Example(); // Object Creation
+        System.out.println(obj.toString());
     }
 }
